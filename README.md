@@ -1,1 +1,2 @@
-# rowingtheottobot.github.io
+https://ottobots.github.io/rowingtheottobot/
+
